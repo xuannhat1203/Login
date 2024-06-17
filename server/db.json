@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "xuannhat@",
+      "password": "xuannhat1"
+    },
+    {
+      "email": "xuannhat2@",
+      "password": "$2a$10$Dp9KpaSRupbVkU3an0Jdeu8awXSm5./4t1RGYXw.EVzHYk4zhBdTm",
+      "id": 2
+    },
+    {
+      "email": "xuannhat3@",
+      "password": "$2a$10$2S7FnRGFD3DlAACy1oaefuL212hXnxyYvTx5MRyDtKmqCYFIgX9YG",
+      "id": 3
+    }
+  ]
+}
